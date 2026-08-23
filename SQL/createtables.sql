@@ -1,3 +1,16 @@
+-- criando a tabela dos resultados da temporada
+create table resultados (
+	data date,
+	competicao varchar(30),
+	rodada varchar(30),
+	local varchar(30),
+	resultado varchar(1),
+	gols_feitos int,
+	gols_sofridos int,
+	adversario varchar(30)
+)
+
+
 -- criando a tabela para os jogdores
 CREATE TABLE jogadores (
     id SERIAL PRIMARY KEY,
