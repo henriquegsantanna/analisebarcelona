@@ -1,7 +1,5 @@
--- Notas com meu planejamento antes de iniciar o projeto
-
 tema: Barcelona temporada 2014/15
-- temporada histórica e nostálgica
+- temporada histórica
 - tríplice coroa
 - trio MSN
 - messi bola de ouro 2015
@@ -29,4 +27,78 @@ FBref (fbref.com)
 wikipedia
 transfermarket
 
+
+
 excel + sql + bi
+
+dash:
+- Barcelona temporada 14/15
+- aba lateral com opções de outras paginas (visão geral, jogos/resultados, desempenho, jogadores, competições, sobre)
+- foto do time levantando alguma taça
+
+ideias inicias:
+jogos
+vitorias
+empates
+derrotas
+aproveitamento (geral e por competição)
+competições
+titulos
+gols marcados
+gols sofridos
+gols por jogo
+rodapé com competições
+artilheiros (com foto dos jogadores na temporada)
+artilheiros por competição
+garçons
+garçons por competição
+jogos por mês
+vitorias em casa e fora(desempenho)
+gols por campeonato
+destaques da temporada/competição: fatos que merecem destaque, como bola de ouro, etc
+melhores e piores resultados
+resumo da temporada
+gols marcados e sofridos por mês
+maiores vitimas do Barcelona (time que mais sofreu gols enfrentando eles, top3)
+
+
+ideias finais:
+
+VISAO GERAL: 
+- numero de jogos, vitorias, empates e derrotas no geral
+- aproveitamento geral
+- títulos conquistados (ex: 4/4, 3/3 etc)
+- gols marcados e sofridos
+- gols por jogo
+- resumo da temporada
+- foto levantando troféu
+- artilharia com foto
+
+RESULTADOS: 
+- resultados por mês
+- gols marcados e sofridos por mês
+- melhores e piores resultados (maior vitima, maior carrasco, etc)
+- resultados em casa e fora
+
+DESEMPENHO:
+- aproveitamento por competição
+- desempenho casa x fora
+- gols por competição
+
+JOGADORES(com fotos):
+- artilharia (geral)
+- garçons (geral)
+- ga (geral)
+- media de minutagem (minutagem por jogador etc)
+- partidas jogadas
+
+COMPETIÇÕES: 
+- artilharia (por competição)
+- garçons (por competição)
+- ga (por competição)
+- media de minutagem (minutagem por jogador etc - por competição)
+- partidas jogadas (por competição)
+- desempenho por competição
+
+SOBRE: 
+- sobre o time  jogadores naquela temporada
