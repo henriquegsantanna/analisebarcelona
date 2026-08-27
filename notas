@@ -29,8 +29,6 @@ transfermarket
 
 
 
-excel + sql + bi
-
 dash:
 - Barcelona temporada 14/15
 - aba lateral com opções de outras paginas (visão geral, jogos/resultados, desempenho, jogadores, competições, sobre)
@@ -65,14 +63,14 @@ maiores vitimas do Barcelona (time que mais sofreu gols enfrentando eles, top3)
 ideias finais:
 
 VISAO GERAL: 
-- numero de jogos, vitorias, empates e derrotas no geral
-- aproveitamento geral
-- títulos conquistados (ex: 4/4, 3/3 etc)
-- gols marcados e sofridos
-- gols por jogo
+- numero de jogos, vitorias, empates e derrotas no geral OK
+- aproveitamento geral OK
+- títulos conquistados (ex: 4/4, 3/3 etc) OK *ou colocar no resumo da temporada
+- gols marcados e sofridos OK
+- gols por jogo OK
+- foto levantando troféu OK
+- artilharia com foto OK -sem foto
 - resumo da temporada
-- foto levantando troféu
-- artilharia com foto
 
 RESULTADOS: 
 - resultados por mês
@@ -86,9 +84,9 @@ DESEMPENHO:
 - gols por competição
 
 JOGADORES(com fotos):
-- artilharia (geral)
-- garçons (geral)
-- ga (geral)
+- artilharia (geral) OK
+- garçons (geral) OK
+- ga (geral) OK
 - media de minutagem (minutagem por jogador etc)
 - partidas jogadas
 
