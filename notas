@@ -74,7 +74,7 @@ VISAO GERAL:
 
 RESULTADOS: 
 - resultados por mês/ano OK
-- placares mais repetitivos (matriz)
+- placares mais repetitivos (matriz) OK feito com funil
 - melhores e piores resultados (maior vitória e maior derrota)
 - maior sequencia invicta (?)
 - jogos sem sofrer gols
@@ -83,6 +83,7 @@ RESULTADOS:
 DESEMPENHO:
 - aproveitamento por competição
 - desempenho casa x fora
+- gols em casa x gols fora
 - gols por competição
 
 JOGADORES(com fotos):
