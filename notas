@@ -70,15 +70,16 @@ VISAO GERAL:
 - gols por jogo OK
 - foto levantando troféu OK
 - artilharia com foto OK -sem foto
-- resumo da temporada
+- resumo da temporada OK
 
 RESULTADOS: 
 - resultados por mês/ano OK
 - placares mais repetitivos (matriz) OK feito com funil
-- melhores e piores resultados (maior vitória e maior derrota)
-- maior sequencia invicta (?)
-- jogos sem sofrer gols
-- gols marcados e sofridos por mês
+- melhores e piores resultados (maior vitória e maior derrota) OK
+- maior sequencia invicta (?) OK cartão
+- jogos sem sofrer gols OK 
+- gols marcados e sofridos por mês OK
+- goleadas OK
 
 DESEMPENHO:
 - aproveitamento por competição
