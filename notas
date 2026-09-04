@@ -82,10 +82,12 @@ RESULTADOS:
 - goleadas OK
 
 DESEMPENHO:
-- aproveitamento por competição
-- desempenho casa x fora
-- gols em casa x gols fora
-- gols por competição
+- aproveitamento por competição OK
+- desempenho casa x fora OK
+- gols em casa x gols fora OK
+- gols por competição X
+- gols sofridos por jogo OK
+- qntd de jogos sem marcar gol OK
 
 JOGADORES(com fotos):
 - artilharia (geral) OK
@@ -107,3 +109,5 @@ SOBRE:
 
 azul: #004D98
 vinho: #A50044
+VERDE: #0AC000
+VERMELHO: #FF0000
