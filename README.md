@@ -1,4 +1,4 @@
-# ⚽ FC Barcelona 2014/15 — Análise de Dados da Temporada
+# ⚽ FC Barcelona 2014/15 — Análise de Dados
 
 Projeto pessoal de análise de dados sobre a temporada 2014/15 do FC Barcelona, quando o clube conquistou os três principais títulos disputados (La Liga, Copa del Rey e Champions League) com o trio histórico Messi, Suárez e Neymar (MSN).
 
