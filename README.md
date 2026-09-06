@@ -8,19 +8,19 @@ O projeto percorre todo o fluxo de um trabalho real de análise de dados: coleta
 
 | Visão Geral |
 
-imagem
+<img width="1440" height="808" alt="visaogeral" src="https://github.com/user-attachments/assets/40f1b96d-f925-4ec7-a711-b0658d8aa195" />
 
 | Resultados |
 
-imagem
+<img width="1438" height="810" alt="resultados" src="https://github.com/user-attachments/assets/3d239b80-37f7-4499-b2e6-ecea48ee845d" />
 
 | Desempenho |
 
-imagem
+<img width="1438" height="810" alt="desempenho" src="https://github.com/user-attachments/assets/751a421d-b298-418b-97f5-2a739dc79311" />
 
 | Jogadores |
 
-imagem
+<img width="1440" height="808" alt="jogadores" src="https://github.com/user-attachments/assets/9a0a65f0-7586-492e-b551-fb5e71a529e3" />
 
 ## 🎯 Objetivo
 
