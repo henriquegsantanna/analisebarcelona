@@ -97,4 +97,5 @@ O dashboard foi dividido em 4 páginas, com navegação lateral fixa:
 ## 👤 Autor
 
 **Henrique Gaiardoni**
+
 [LinkedIn](linkedin.com/in/henriquegaiardoni) · [GitHub](github.com/henriquegsantanna)
